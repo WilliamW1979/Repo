@@ -8,11 +8,11 @@
 		"InternalName": "FashionReport",
 		"AssemblyVersion": "0.0.0.3",
 		"RepoUrl": "https://https:/github.com/WilliamW1979/FashionReport",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": 11,
-		"DpwnloadCount": 7,
 		"DownloadLinkInstall": "https://github.com/WilliamW1979/FashionReport/releases/download/Beta0.0.0.3/latest.zip",
 		"DownloadLinkTesting": "https://github.com/WilliamW1979/FashionReport/releases/download/Beta0.0.0.3/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/WilliamW1979/FashionReport/releases/download/Beta0.0.0.3/latest.zip",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 11,
+		"DownloadCount": 7,
 	}
 ]
