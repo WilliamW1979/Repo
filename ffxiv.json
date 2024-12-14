@@ -14,6 +14,6 @@
 		"DownloadLinkUpdate": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.1.0/latest.zip",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 11,
-		"IconUrl": "https://github.com/WilliamW1979/FashionReport/raw/master/Data/Wolf%20Paw.png"
+    		"IconUrl": "https://github.com/WilliamW1979/FashionReport/raw/master/FashionReport/images/icon.png"
 	}
 ]
