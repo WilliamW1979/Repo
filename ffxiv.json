@@ -7,11 +7,11 @@
 		"Tags": ["Fashion Report", "Gold Saucer", "Mini Game", "Masked Rose", "Glamour", "MGP"],
 		"CategoryTags": ["Utility", "UI"],
 		"InternalName": "FashionReport",
-		"AssemblyVersion": "0.4.9",
+		"AssemblyVersion": "0.4.10",
 		"RepoUrl": "https://github.com/WilliamW1979/FashionReport",
-		"DownloadLinkInstall": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.9/latest.zip",
-		"DownloadLinkTesting": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.9/latest.zip",
-		"DownloadLinkUpdate":  "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.9/latest.zip",
+		"DownloadLinkInstall": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.10/latest.zip",
+		"DownloadLinkTesting": "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.10/latest.zip",
+		"DownloadLinkUpdate":  "https://github.com/WilliamW1979/FashionReport/releases/download/v0.4.10/latest.zip",
 		"ApplicableVersion": "any",
     		"IconUrl": "https://github.com/WilliamW1979/FashionReport/raw/master/FashionReport/images/icon.png"
 	}
